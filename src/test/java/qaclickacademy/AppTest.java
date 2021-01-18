@@ -40,5 +40,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("pst4");
+        System.out.println("pst5");
     }
 }
