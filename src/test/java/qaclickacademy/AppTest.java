@@ -20,6 +20,8 @@ public class AppTest
     {
         super( testName );
         System.out.println("pst1");
+        System.out.println("pst2");
+        System.out.println("pst3");
     }
 
     /**
